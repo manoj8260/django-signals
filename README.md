@@ -39,7 +39,8 @@ including pre-save, post-save, pre-delete, and many-to-many change tracking.
 ```bash
 python manage.py signals_demo
 ```
-## Test output
+### Test output
+```bash
 ### Example Output
 (env) PS C:\Users\mn047\OneDrive\Desktop\Django-signals\signals> python manage.py signals_demo
 >>
