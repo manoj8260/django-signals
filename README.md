@@ -22,7 +22,7 @@ including pre-save, post-save, pre-delete, and many-to-many change tracking.
 
 ### User Welcome Notification
 - Triggered on User creation
-- Sends a welcome message (dummy email)
+- Sends a welcome message (email)
 
 ### Pre-Deletion Backup
 - Copies Post data into `DeletedPost`
